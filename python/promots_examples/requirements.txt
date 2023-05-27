@@ -1,0 +1,3 @@
+python-gflags
+openai
+py-dotenv
